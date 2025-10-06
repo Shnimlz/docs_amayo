@@ -1295,5 +1295,5 @@ O visita la URL de tu servidor: `http://tu-servidor:puerto/`
 
 ---
 
-**Última actualización:** Enero 2025 • Versión 0.11.20  
+**Última actualización:** Octubre 2025 • Versión 2.0.1-dev
 **Amayo Bot** © 2025 - Documentación para usuarios finales de Discord
